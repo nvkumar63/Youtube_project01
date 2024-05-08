@@ -30,7 +30,13 @@ Install Pandas
 
 Install Seaborn
 
-import mysql.connector
+Install mysql.connector
+
+Install iso8601
+
+Install sqlalchemy
+
+Install streamlit 
 ## API Reference
 
 Click the below link for obtaining the YouTube API Key.
